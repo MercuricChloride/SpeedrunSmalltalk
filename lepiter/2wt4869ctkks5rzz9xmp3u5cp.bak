@@ -1,0 +1,289 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:49:43.940734-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:50:06.368059-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "bLyzK3HjDQCUNxTdDiItMQ=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "So now we are going to test your knowledge. Make these snippets do what we want them to do! Refer to the previous sections if you have any trouble."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:50:08.81121-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:50:08.81121-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "DL0IPnHjDQC9+Y/mAHgxfw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:50:11.555021-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:51:06.970342-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "8aEyPnHjDQC9/m26AHgxfw=="
+				},
+				"code" : "\"How can we add the results of these numbers together?\"\rsum := 4 5 7"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:50:33.318144-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:50:33.318144-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "+WpAP3HjDQC/KszQAHgxfw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:50:40.032663-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:51:31.076705-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "/ivlP3HjDQC/SIVHAHgxfw=="
+				},
+				"code" : "\"How can we add the previously calculated sum to this collection?\"\rmyList := OrderedCollection new"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:52:16.417639-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:52:16.417639-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "nFd/RXHjDQCDj4ukAHgxfw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : ""
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:52:18.316034-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:52:53.085583-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "8tnARXHjDQCDntytAHgxfw=="
+				},
+				"code" : "\"Why does this not return the dictionary?\"\rmyDict := Dictionary new\r\tat: 'foo' put: 'bar';\r\tat: 'baz' put: 'something'."
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2024-11-16T14:45:01.200069-08:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2024-11-16T14:45:01.200069-08:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Challenge: 1.3: Test your method knowledge"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "99fdb22b-71e3-0d00-9436-22b60e222d31"
+	}
+}

@@ -1,0 +1,891 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:54:27.152679-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:29:55.470683-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "OcNuTXHjDQCuEW37DXaZUA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Congrats on getting through the basics of smalltalk expressions and syntax! You are well on your way to being super productive in smalltalk! We are now going to start using some of the cool features of the environment to build a simple class."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T14:55:50.072785-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:33:15.275823-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "R/9fUnHjDQCY9SnQChBSLg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Now we are going to build out some functionality for a simple class. We already defined this class within this package. But it hasn't been finished yet! Evaluate the following snippet to build a new instance of the Greeter class."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:00:06.258112-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:45:02.132259-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "PhelYXHjDQCvNproA794QQ=="
+				},
+				"code" : "\"Building a new greeter\"\rgreeter := Greeter new."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:32:43.859274-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:33:30.830181-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wrRT1nHjDQCnkL/uD4iw0g=="
+				},
+				"code" : "\"I don't work yet!\"\rgreeter greet: 'Alan Kay'"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:31:19.644935-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:43:43.241056-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "SLRO0XHjDQClJLWXD4iw0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "To make this work, let's click on the wrench icon, and click: `create Method: greet:`. This will open up a dropdown for us to define what this method does."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:44:40.586228-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:47:43.171726-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "cjU/AHLjDQC8La18A1VbyA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Execute this method to see a reference for how we might implement our greet: method. As well as look some new syntax."
+			},
+			{
+				"__type" : "exampleSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:45:15.408772-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:45:15.408772-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "anAfA3LjDQC/el4dA1VbyA=="
+				},
+				"exampleSelector" : "exampleGreet",
+				"previewHeight" : 200,
+				"previewShowSelector" : "gtViewsFor:",
+				"exampleBehaviorName" : "Greeter",
+				"codeExpanded" : true,
+				"previewExpanded" : false,
+				"noCode" : false
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:47:51.220582-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:48:01.76622-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "OfBoDHLjDQCt72VKB207gw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "There are three new things we see in this method definition."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T15:48:02.233045-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T15:58:03.01458-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "rfoQDXLjDQCvMxYYB207gw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Pragmas are defined at the top of a method definition, and basically are just a tag we put on a method so we can query the smalltalk image for methods which implement this pragma. In this case, the `<gtExample>` pragma is used to show that this is an example."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T15:58:08.455418-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T15:58:26.834578-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "5TEzMXLjDQCS9DTODJiUTA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "This allows the smalltalk environment to build a list of all examples present on a class, so we can run and inspect them. Among other things."
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:50:15.123925-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:50:26.378891-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "2rn8FHLjDQCGiJPGDJfV+w=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "The first is a pragma, which you can ignore for now.  `<gtExample>`"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T15:50:40.576042-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T16:01:24.990442-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "uRKBFnLjDQCHpt45DJfV+w=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Local variables are defined within pipes at the top of a method, and allow us to create variables that we can use within a method body. We can define as many variables as we want in the pipes, with a space delimiting the variable name. Common naming convention uses a before something, to provide information about what type the variable is."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T15:54:57.682065-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T15:57:11.355439-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "GjnUJXLjDQCeCCIYAQOVCQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Local variables are also introduced when using keyword arguments or using a binary method. Look at this as an example: {{gtMethod:String>>compare:}}"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T15:51:40.66004-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T15:53:07.179851-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "NOcVGnLjDQCKPQx7DJfV+w=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "**IMPORTANT: If you do not define a local variable, the method will assume the variable is a slot on the object!**"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:46:44.545015-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T16:00:44.018004-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "FYlvCHLjDQCH81izDkYUVg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "The next is a local variable defintion `| aName | `"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T15:53:29.742609-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T15:54:32.471704-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "dmCWIHLjDQCu15IdA8d8jg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "The return is used before an expression, to say we want to return the result, as the result of the method. If you do not return a value from a method, the current object running the code is returned."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T16:01:48.010853-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T16:01:55.63415-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "MUnLPXLjDQC8M7VHDBOcEg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Any code after the return statement won't be evaluated."
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:53:12.616648-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:53:29.303451-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "eg2RH3LjDQCt1rzMA8d8jg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "The final syntax is the return: `^`"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:58:43.927855-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:59:39.740092-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "G3VQM3LjDQCwSAzdBHNmGA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "**So with that in mind now, see if you can define the method `greet:` on our class {{gtClass:Greeter}}!**"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T15:59:30.991115-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T15:59:54.879728-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "85UeNnLjDQCjAheBDPxMgg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "- pragmas are just tags we can attach to methods"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T15:59:55.586156-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T16:00:13.623826-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "2eKVN3LjDQCpqjdYCcxuIg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "- Local variables are introduced inside of pipes at the top of a method"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T16:00:13.926012-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-16T16:03:32.691686-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "PrqtOHLjDQCrmdcMCcxuIg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "- Return statements return the result of the expression from the method. And if no return statement is present, the current object calling the metho"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:59:25.167601-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T15:59:29.510509-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "r/+mNXLjDQCihalSDPxMgg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Knowledge Check:"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2024-11-16T14:54:27.109727-08:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2024-11-16T14:54:27.109727-08:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Chapter 1.4: Defining methods"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "741a6e4d-71e3-0d00-ae10-2ffc0d769950"
+	}
+}
