@@ -9,6 +9,5 @@ BaselineOfSpeedrunSmalltalk >> baseline: spec [
 	<baseline>
 		^ spec for: #common do: [
 			spec package: 'SpeedrunSmalltalk'.
-			spec package: 'SpeedrunSmalltalk'
 		]
 ]
