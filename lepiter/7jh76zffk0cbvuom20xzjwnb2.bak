@@ -1216,6 +1216,43 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2024-11-17T21:31:28.319817-08:00"
+											}
+										},
+										"editEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"editTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
+												"dateAndTimeString" : "2024-11-17T21:31:58.636393-08:00"
+											}
+										},
+										"uid" : {
+											"__type" : "uid",
+											"uidString" : "nUcg94rjDQCsqVWBD1p4UA=="
+										},
+										"paragraphStyle" : {
+											"__type" : "textStyle"
+										},
+										"string" : "As we start talking about syntax, you should keep this cheatsheet open nearby to reference. [[Cheatsheet]]"
+									},
+									{
+										"__type" : "textSnippet",
+										"children" : {
+											"__type" : "snippets",
+											"items" : [ ]
+										},
+										"createEmail" : {
+											"__type" : "email",
+											"emailString" : "<unknown>"
+										},
+										"createTime" : {
+											"__type" : "time",
+											"time" : {
+												"__type" : "dateAndTime",
 												"dateAndTimeString" : "2024-11-15T22:40:54.434033-08:00"
 											}
 										},
@@ -1459,7 +1496,7 @@
 																	"__type" : "time",
 																	"time" : {
 																		"__type" : "dateAndTime",
-																		"dateAndTimeString" : "2024-11-16T14:58:56.287762-08:00"
+																		"dateAndTimeString" : "2024-11-16T14:59:16.123338-08:00"
 																	}
 																},
 																"uid" : {
@@ -1469,7 +1506,7 @@
 																"paragraphStyle" : {
 																	"__type" : "textStyle"
 																},
-																"string" : "You can also highig"
+																"string" : "You can also highlight any section of smalltalk code, right click the selection, and click one of these options as well."
 															}
 														]
 													},
