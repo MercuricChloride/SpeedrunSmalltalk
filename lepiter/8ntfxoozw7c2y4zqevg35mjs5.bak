@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:45:02.204774-08:00"
+						"dateAndTimeString" : "2024-11-17T12:48:44.975318-08:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Collections are the last thing to cover in this chapter. Collections are classes in smalltalk that support iteration. *Note: if you want to support these methods, you can just define them for a different class as well.* For more information check out the named page in gt, Working with collections. You can find this by searching with the global spotter for this page. (shift + enter to open)"
+				"string" : "Collections are the last thing to cover in this chapter. Collections are classes in smalltalk that support iteration. *Note: if you want to support these methods, you can just define them for a different class as well.* For more information check out the named page in gt, {{gtPage:Working with collections in Pharo|db=2j9m7db2i4oz116bexd7wbdxo}}."
 			},
 			{
 				"__type" : "textSnippet",
@@ -905,6 +905,154 @@
 					"uidString" : "OAFP03LjDQC/faLnBR4gaQ=="
 				},
 				"code" : "aCollection := {1. 2. 3.}.\raCollection inject: 0 into: [:acc :each | acc + each ]"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T16:55:41.737291-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T16:55:44.874399-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "uxcI/3LjDQC4QNECCW5s7Q=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Knowledge Check:"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T16:55:44.968211-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T16:55:52.818709-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "vmc5/3LjDQC4j0DwCW5s7Q=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "- Understand how to build arrays"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T16:55:52.935121-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T16:56:03.661755-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "/fey/3LjDQC5Ocp5CW5s7Q=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "- Understand how to build collections"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T16:56:03.745386-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-16T16:56:10.239645-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "OOxXAHPjDQC6Hup+CW5s7Q=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "- Understand the common methods of using collections"
 			}
 		]
 	},

@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-15T16:08:27.531794-08:00"
+						"dateAndTimeString" : "2024-11-17T19:32:46.203561-08:00"
 					}
 				},
 				"editEmail" : {
@@ -29,54 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-15T16:08:36.474787-08:00"
+						"dateAndTimeString" : "2024-11-17T19:33:06.454448-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "An3v/l3jDQCZtPh5A/KTbw=="
+					"uidString" : "zW+dTonjDQCWfyUhDcH9jg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Hello and welcome to speedrun smalltalk!"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-15T16:08:32.481285-08:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-15T16:09:03.842221-08:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "+LONOF7jDQCtNeI9AItz3g=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "This is an introductory course to get you started with glamorous toolkit and the pharo programming language."
+				"string" : "So now that you understand the basic uses of the coder. We can walk through some of the other useful features it offers."
 			},
 			{
 				"__type" : "textSnippet",
@@ -97,7 +60,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-15T17:02:34.725749-08:00"
+									"dateAndTimeString" : "2024-11-17T19:33:06.661403-08:00"
 								}
 							},
 							"editEmail" : {
@@ -108,17 +71,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-16T14:49:24.110553-08:00"
+									"dateAndTimeString" : "2024-11-17T19:33:19.775736-08:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "ayOi+V7jDQCQqPc4D5xgfw=="
+								"uidString" : "kpTVT4njDQCY/Tx0DcH9jg=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Chapter 1.1: Basic of smalltalk]]"
+							"string" : "In addition to just sorting through categories, we can sort by many things."
 						},
 						{
 							"__type" : "textSnippet",
@@ -134,7 +97,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-15T23:06:54.41879-08:00"
+									"dateAndTimeString" : "2024-11-17T19:33:19.942647-08:00"
 								}
 							},
 							"editEmail" : {
@@ -145,17 +108,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-16T14:49:32.021202-08:00"
+									"dateAndTimeString" : "2024-11-17T19:34:55.719585-08:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "T96+EGTjDQCEDUP0D2Aldw=="
+								"uidString" : "EzugUInjDQCapoVNDcH9jg=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Chapter 1.2: More on methods]]"
+							"string" : "Open up a coder for this class {{gtClass:Dictionary}}. Now click the plus button in the query filters, to add a new filter for pragmas. Go ahead and click on the dropdown, to select a filter for the pragma `gtView`. This will give us all custom views on this object."
 						},
 						{
 							"__type" : "textSnippet",
@@ -171,7 +134,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-16T14:44:36.015011-08:00"
+									"dateAndTimeString" : "2024-11-17T19:35:26.281427-08:00"
 								}
 							},
 							"editEmail" : {
@@ -182,17 +145,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-16T14:54:34.705649-08:00"
+									"dateAndTimeString" : "2024-11-17T19:35:42.64098-08:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "OrMyKnHjDQCTHRL8DiItMQ=="
+								"uidString" : "WwEoWInjDQC/zgwkBeFeWQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Challenge 1.3: Test your method knowledge]]"
+							"string" : "We can now immediately see the custom views this object implements! Cool!"
 						},
 						{
 							"__type" : "textSnippet",
@@ -208,7 +171,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-16T14:54:13.270517-08:00"
+									"dateAndTimeString" : "2024-11-17T19:36:01.809546-08:00"
 								}
 							},
 							"editEmail" : {
@@ -219,17 +182,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-16T14:54:25.860355-08:00"
+									"dateAndTimeString" : "2024-11-17T19:38:06.807312-08:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "M+uaTHHjDQCtNcdyDXaZUA=="
+								"uidString" : "wR9GWonjDQCRZAHIB8KaWQ=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Chapter 1.4: Defining methods]]"
+							"string" : "Now delete this filter, and add another one that filters methods that use an instance slot. And set this instance slot to `array`, which will filter all methods that read or write to the slot `array`."
 						},
 						{
 							"__type" : "textSnippet",
@@ -245,7 +208,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-16T16:03:49.280526-08:00"
+									"dateAndTimeString" : "2024-11-17T19:38:39.105438-08:00"
 								}
 							},
 							"editEmail" : {
@@ -256,91 +219,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-16T16:04:00.82519-08:00"
+									"dateAndTimeString" : "2024-11-17T19:39:04.427771-08:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "I8WDRXLjDQC3INzxBgx2yg=="
+								"uidString" : "skKmY4njDQCIsCdAC8hYvw=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Chapter 1.5: Slots]]"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-16T16:22:48.572139-08:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-16T16:22:52.677493-08:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "ZPxriXLjDQChTpU5AX6fsA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[Chapter 1.6: Blocks]]"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-16T16:28:52.768106-08:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-16T16:29:00.1235-08:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "AS4hn3LjDQCPZLLoDBFOkg=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[Chapter 1.7: Collections]]"
+							"string" : "We can add another instance slot filter, to further refine our search, for all methods that read and write to array and tally."
 						}
 					]
 				},
@@ -352,7 +241,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-15T16:09:40.152379-08:00"
+						"dateAndTimeString" : "2024-11-17T19:42:15.370961-08:00"
 					}
 				},
 				"editEmail" : {
@@ -363,17 +252,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-15T16:28:48.443519-08:00"
+						"dateAndTimeString" : "2024-11-17T19:42:21.419949-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "vUiWPF7jDQCsx8TbA983hg=="
+					"uidString" : "8uN1cInjDQC0nBxHCW5BMw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Chapter 1: Crawling]]"
+				"string" : "#More flavors of sorting"
 			},
 			{
 				"__type" : "textSnippet",
@@ -394,7 +283,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-17T12:52:08.312463-08:00"
+									"dateAndTimeString" : "2024-11-17T19:42:37.954978-08:00"
 								}
 							},
 							"editEmail" : {
@@ -405,165 +294,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-17T13:24:31.651794-08:00"
+									"dateAndTimeString" : "2024-11-17T19:44:56.53422-08:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "3EvYtYPjDQCpndeMDZZvPA=="
+								"uidString" : "ksXicYnjDQC19SttCW5BMw=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "[[Chapter 2.1: A bit of context]]"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-17T13:50:46.400192-08:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-17T13:50:52.441949-08:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "3w2Kh4TjDQCZ/3vbBuH5LA=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[Chapter 2.2: Basics of the coder]]"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-17T19:32:37.75529-08:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-17T19:32:44.331003-08:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "838cTonjDQCVt/WkDcH9jg=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[Chapter 2.3: More features of the coder]]"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-17T19:56:45.570204-08:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-17T19:57:02.639571-08:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "OWdopInjDQC4zXj7Dw3UQg=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[Chapter 2.4: The coder is just a view into an object]]"
-						},
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-17T20:08:22.856823-08:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-17T20:08:24.506119-08:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "3YvQzYnjDQCkohHFBGs36g=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "[[Chapter 2"
+							"string" : "Classes also support arbitrary comments in markdown. Head over to the tab labeled comment to see the description of the Dictionary class."
 						}
 					]
 				},
@@ -575,7 +316,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-15T16:22:55.802595-08:00"
+						"dateAndTimeString" : "2024-11-17T19:42:30.46189-08:00"
 					}
 				},
 				"editEmail" : {
@@ -586,17 +327,502 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-15T16:28:59.339342-08:00"
+						"dateAndTimeString" : "2024-11-17T19:42:37.713865-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "opHZa17jDQCVBzO4BaDnDA=="
+					"uidString" : "fXtwcYnjDQC1hwMwCW5BMw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[Chapter 2: Toddling]]"
+				"string" : "#Class comments"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T19:45:05.529042-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T19:47:07.357201-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "hqKueonjDQCMjk3pAn/T7w=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Classes also can define examples of usages. Head over to the examples tab to see these. You can run an example by clicking the grey box next to the example. Or run all of the examples with the multicolored play button icon thing."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T19:47:07.732914-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T19:47:21.862154-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "+Ez3gYnjDQCJZQXVALIhZQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Clicking on the green box next to an example allows us to inspect the output of the example in an inspector."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T19:47:32.952896-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T19:47:49.625322-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "cCJ4g4njDQCrnaqSCo+Psw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "And we can also use the filters at the top, to see executed examples, successes, failures, and errors."
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T19:45:03.084698-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T19:45:05.303521-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "N1OJeonjDQCMWAEnAn/T7w=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Examples"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T19:49:12.189045-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T19:53:52.450163-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "4FhiiYnjDQCzrC6QBSKgYw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "From a coder, we can browse the class heirarchy. Go ahead and click on the icon at the top of the coder, next to the book, that looks like a tree to get the package heirarchy of an object. By default, this view will open a tree view of all super classes and subclasses defined in this package. But if we navigate to the \"Class Heirarchy\" tab, we will see a list of all superclasses and subclasses in the scope of the entire image."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T19:53:57.962556-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T19:54:15.384571-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "5+lqmonjDQCejipfClKmhw=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "This is very useful if we find an abstract class, and want to see how it is used in other contexts."
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T19:47:58.806664-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T19:49:11.714482-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "naEChYnjDQCxJVgMCkUk5Q=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Class heirarchy"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T19:54:47.074264-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T19:55:12.991807-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "mSIrnYnjDQCjzK5gCoCuQA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Another useful view, is the references tab. This tab allows us to see other methods, that use this class in their defintions."
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T19:55:50.46668-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T19:56:16.392751-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "Y5cfoYnjDQCnCEbhA4jiLg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "We can also use our filters in this view as well. Can you figure out how to find all ways in which the Dictionary class is used within the `Futures` package?"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T19:49:35.388547-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T19:54:43.785152-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "71zEionjDQC1bXoBBSKgYw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#References"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T20:05:51.051495-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T20:06:15.618978-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "rczrxInjDQCbYNaLDqedoA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "- The coder is just a view into an object (The class itself)"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T20:05:57.991847-08:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2024-11-17T20:06:24.471217-08:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "lLJVxYnjDQCcL5ehDqedoA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "- We can craft queries for the class, that let us find what we are actu"
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T20:05:46.760263-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T20:05:50.964246-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "EUKqxInjDQCbE1roDqedoA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Knowledge Check"
 			},
 			{
 				"__type" : "textSnippet",
@@ -612,7 +838,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-15T16:28:35.645165-08:00"
+						"dateAndTimeString" : "2024-11-17T19:54:36.32816-08:00"
 					}
 				},
 				"editEmail" : {
@@ -623,86 +849,12 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-15T16:28:41.083122-08:00"
+						"dateAndTimeString" : "2024-11-17T19:54:36.32816-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "He80gF7jDQCgSXhoBSEPTQ=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "[[Chapter 3: Walking]]"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-15T16:36:17.200514-08:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-15T16:36:21.985331-08:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "KEzHm17jDQCmjz1rBx71CQ=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "[[Chapter 4: Running]]"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-15T15:52:21.823353-08:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-15T15:52:21.823353-08:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "maey/l3jDQCZsyOkA/KTbw=="
+					"uidString" : "LVO0nInjDQCjirwZCoCuQA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
@@ -719,7 +871,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-11-15T15:52:25.806583-08:00"
+			"dateAndTimeString" : "2024-11-17T19:32:46.1693-08:00"
 		}
 	},
 	"editEmail" : {
@@ -730,15 +882,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-11-15T15:52:25.806583-08:00"
+			"dateAndTimeString" : "2024-11-17T19:32:46.1693-08:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Speedrun Smalltak"
+		"title" : "Chapter 2.3: More features of the coder"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "c957b2fe-5de3-0d00-99b2-f3b103f2936f"
+		"uuid" : "fee69c4e-89e3-0d00-967e-d2040dc1fd8e"
 	}
 }

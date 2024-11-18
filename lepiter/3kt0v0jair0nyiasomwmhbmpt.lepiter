@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:29:01.178087-08:00"
+						"dateAndTimeString" : "2024-11-17T12:52:36.748487-08:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-17T12:49:15.591296-08:00"
+						"dateAndTimeString" : "2024-11-17T12:54:14.483144-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "BYWhn3LjDQCQBGB9DBFOkg=="
+					"uidString" : "NhYqt4PjDQCrAQOaDZZvPA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Collections are the last thing to cover in this chapter. Collections are classes in smalltalk that support iteration. *Note: if you want to support these methods, you can just define them for a different class as well.* For more information check out the named page in gt, {{gtPage:Working with collections in Pharo|db=2j9m7db2i4oz116bexd7wbdxo}}."
+				"string" : "Welcome to chapter 2! Here we are going to start familiarizing ourselves with the many tools that glamorous toolkit has to offer, to answer questions about our code."
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:34:08.874752-08:00"
+						"dateAndTimeString" : "2024-11-17T12:54:12.04723-08:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:34:12.967536-08:00"
+						"dateAndTimeString" : "2024-11-17T12:59:18.285655-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "xJP4sXLjDQCG2bYmAzcZ4w=="
+					"uidString" : "IFg4vYPjDQCt9m7oAnCwfg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "#Building Collections"
+				"string" : "Glamorous toolkit uses a different environment than you might be used to when writing code in other languages. So while using these tools might feel foreign at first, take my word that these tools are far more powerful than traditional editors and ides when you learn how to use them effectively."
 			},
 			{
 				"__type" : "textSnippet",
@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:30:46.291973-08:00"
+						"dateAndTimeString" : "2024-11-17T13:10:43.095528-08:00"
 					}
 				},
 				"editEmail" : {
@@ -103,17 +103,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:36:35.98516-08:00"
+						"dateAndTimeString" : "2024-11-17T13:10:50.091435-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "YZjBpXLjDQCPApQTBhiN6A=="
+					"uidString" : "ropK+IPjDQCRy+CKC/jGyg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Collections can be built in pharo in 3 ways. Dynamic arrays are built with curly braces.  Where each expression is an item in the collection. So we use periods to seperate them."
+				"string" : "#A bit of philosophy"
 			},
 			{
 				"__type" : "textSnippet",
@@ -129,7 +129,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:37:02.107026-08:00"
+						"dateAndTimeString" : "2024-11-17T13:10:55.531888-08:00"
 					}
 				},
 				"editEmail" : {
@@ -140,17 +140,387 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:37:19.752581-08:00"
+						"dateAndTimeString" : "2024-11-17T13:13:49.771028-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "DuRLvHLjDQCmTxaMDu2dog=="
+					"uidString" : "10UI+YPjDQCSV8MhC/jGyg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "**NOTE: The literal syntax we are using produces arrays, not lists. So these arrays can't be resized**"
+				"string" : "Smalltalk is different than other languages in a few important ways. And understanding these differences is important for being able to understand why certain things were implemented as they were, and make it obvious to answer certain types of questions you might have while developing in smalltalk."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:15:23.658566-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:18:37.758204-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "UpkDCYTjDQCPZaTOAEFpaA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "The primary thing to understand is that smalltalk doesn't really use files for representing it's code. Sure it has ways of producing files from the contents of the image for usage with git, and ways of producing changelog files for a system. But smalltalk considers these as just functions over the state of the system."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:14:19.978091-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:16:36.237416-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "AeM3BYTjDQCJaiLBAEFpaA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "This is in contrast with most languages, that treat files as the primary source of truth, and the running system mainly ignores the contents of  these files."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:16:48.532773-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:17:21.47809-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "w6sSDoTjDQCqh8gSDIXTWA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "**What this means is that the smalltalk image we develop in, is more like a living object database, rather than a collection of files with source code.**"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:19:14.589967-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:21:06.744409-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "HPcGFoTjDQCtF6O2Dginlw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "And it's this fact that has huge impacts for how we actually write code in smalltalk. Because rather than reading source code manually to figure out how a system works, smalltalkers prefer to craft queries to get the information we want."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:21:13.512696-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:23:51.596067-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "b/DdHYTjDQCGZaEjDE7+/w=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "This feature allows a smalltalker to have a much deeper understanding of large systems than other languages. Much in the same way using sql or graphql allow us to understand only the relevant sections of large databases, compared to if we were manually reading the database entries in a text editor."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:25:03.17375-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:26:13.877412-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "08XWKoTjDQCM1NK4B2XQ7w=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "But unlike most query languages. The results of these queries are objects themselves. Which can then be used as the starting point of other queries, with respect to that object."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:26:40.227204-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:27:43.682498-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Y79FMYTjDQCDScOXBZAMsg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "So what this means, is that when developing in smalltalk, we ask the system certain questions, which return objects, which can be used to develop more specific questions about those objects."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:32:03.372335-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:32:03.372335-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "HQOaRITjDQCa32+eDpVsmg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "This is why the interface for glamorous toolkit is built like it is. With each interaction we open a new inspector for an object to to the right of the current object, which shows increasing specificity. This new inspector can be used to answer more specific questions, while not losing context of the more broad questions we asked to the left of the inspector. Additionally, all object inspectors have a pane for interaction on the bottom of the inspector, which we can use to evaluate smalltalk code to answer questions."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:27:49.857522-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:32:11.479758-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "v6p9NYTjDQCL8IWkBoyzeg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Practicing using this idea"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:32:16.706243-08:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2024-11-17T13:32:43.289635-08:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "fXllRYTjDQCiKe7JCvrOEw=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Let's say we wanted to figure out what the hex representation of a number would be. We can start this query by just getting an inspector for a number."
 			},
 			{
 				"__type" : "pharoSnippet",
@@ -166,7 +536,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:31:15.525854-08:00"
+						"dateAndTimeString" : "2024-11-17T13:32:45.076062-08:00"
 					}
 				},
 				"editEmail" : {
@@ -177,14 +547,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:31:24.687295-08:00"
+						"dateAndTimeString" : "2024-11-17T13:32:46.355416-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "zHqjp3LjDQCSMdbVBhiN6A=="
+					"uidString" : "oFsWR4TjDQClHGGACvrOEw=="
 				},
-				"code" : "aDynamicCollection := {1. 2. 3.}"
+				"code" : "42"
 			},
 			{
 				"__type" : "textSnippet",
@@ -200,7 +570,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:33:38.871143-08:00"
+						"dateAndTimeString" : "2024-11-17T13:35:22.790885-08:00"
 					}
 				},
 				"editEmail" : {
@@ -211,17 +581,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:37:37.820166-08:00"
+						"dateAndTimeString" : "2024-11-17T13:43:25.075673-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "drkusHLjDQCD/zMVDUSS1w=="
+					"uidString" : "oeh8UITjDQC/fKEtD2u3fw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "We can also build static sized arrays, using a hash before parens. And each element of the array is seperated by a space."
+				"string" : "The inspector that opens to the side shows us an instance of the SmallInteger class. And all of the tabs show different views of that object. (Think of these as queries that provide context for an object)."
 			},
 			{
 				"__type" : "textSnippet",
@@ -237,7 +607,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:37:49.03519-08:00"
+						"dateAndTimeString" : "2024-11-17T13:32:53.44337-08:00"
 					}
 				},
 				"editEmail" : {
@@ -248,17 +618,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:37:49.03519-08:00"
+						"dateAndTimeString" : "2024-11-17T13:43:39.673526-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "gPQXv3LjDQCyzCFrA/zXsA=="
+					"uidString" : "ZgOWR4TjDQClK1C/CvrOEw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "This is less important to know about right now though. But useful if you come across them. "
+				"string" : "If we click on the Integer tab in the inspector, we will see a view defined for this object, that shows it's many different representations, all conveniently labelled. One of which is hex. Go ahead and click on this result, to see what the hex value of our number is!"
 			},
 			{
 				"__type" : "textSnippet",
@@ -274,7 +644,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:31:46.338617-08:00"
+						"dateAndTimeString" : "2024-11-17T13:39:08.201133-08:00"
 					}
 				},
 				"editEmail" : {
@@ -285,17 +655,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:37:51.221491-08:00"
+						"dateAndTimeString" : "2024-11-17T13:44:13.079108-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "LaZ5qXLjDQCU4+DmBhiN6A=="
+					"uidString" : "yWLsXYTjDQCErY6GBeKIrA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "**Note that all items in static arrays must have known compile time sizes. So if you use a variable inside of a static array, it is treated as a symbol, rather than the value of the variable.**"
+				"string" : "But how did they actually perform this conversion? Well we can inspect how views into an object are defined, by clicking on the tab for the view, while holding (alt or option depending on your system). This opens an inspector of the source code for that view."
 			},
 			{
 				"__type" : "textSnippet",
@@ -311,7 +681,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:33:46.354599-08:00"
+						"dateAndTimeString" : "2024-11-17T13:40:08.233315-08:00"
 					}
 				},
 				"editEmail" : {
@@ -322,51 +692,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:33:54.26565-08:00"
+						"dateAndTimeString" : "2024-11-17T13:40:49.168309-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "cPKgsHLjDQCECwldDUSS1w=="
+					"uidString" : "MGmAYYTjDQCq/4JeAqHL6A=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "If you have ever worked with lisp, it's similar to a quoted list."
-			},
-			{
-				"__type" : "pharoSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:32:17.321429-08:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:33:22.135024-08:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "g2lSq3LjDQCYbA5lBhiN6A=="
-				},
-				"code" : "aStaticArray := #(1 2 'Hello' hello)"
+				"string" : "What we see when we do this, is that they create the value for the `hex` column by calling `self printStringHex`."
 			},
 			{
 				"__type" : "textSnippet",
@@ -382,7 +718,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:38:33.251847-08:00"
+						"dateAndTimeString" : "2024-11-17T13:40:53.195148-08:00"
 					}
 				},
 				"editEmail" : {
@@ -393,51 +729,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:52:22.018242-08:00"
+						"dateAndTimeString" : "2024-11-17T13:44:44.572968-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "0ae6wXLjDQCRbzpRA1zL/Q=="
+					"uidString" : "TncuZITjDQCtq0zIAqHL6A=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "And finally we can just build new instances of collections using the class name directly. For example {{gtClass:OrderedCollection}}."
-			},
-			{
-				"__type" : "pharoSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:45:21.238635-08:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:52:28.32174-08:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "7gkM2nLjDQCVWR3hAKJCmQ=="
-				},
-				"code" : "aCollection := OrderedCollection new\r\tadd: 1;\r\tadd: 2;\r\tadd: 3.\r\t\r\"we can also build them from a static array\".\ranotherCollection := OrderedCollection newFrom: {1. 2. 3}.\r\"Another way of doing this\"\ranotherCollectionKind := {1. 2. 3.} asOrderedCollection.\r\r\"dictionaries can also be built from a list of associations\"\r\r\"associations can be built with the -> method\".\ranAssociation := 1 -> 3.\r\raDictionary := Dictionary new\r\tat: 'a' put: 1;\r\tat: 'b' put: 2;\r\tyourself.\r\t\ranotherDictionary := {\r\t'a' -> 1.\r\t'b' -> 2.\r\t} asDictionary.\r\t\r\"we can also make sets\"\raSet := {1. 1. 2. 3. 4.} asSet.\r\t\r{aCollection. anotherCollection. anotherCollectionKind. aDictionary. anotherDictionary. aSet}"
+				"string" : "If we go back over to the inspector for the number, and drag up on the handle on the bottom of the inspector. We will get a playground for this object, where the self keyword is the current object we are inspecting. In this case it is the SmallInteger 42."
 			},
 			{
 				"__type" : "textSnippet",
@@ -453,7 +755,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:34:16.691867-08:00"
+						"dateAndTimeString" : "2024-11-17T13:41:23.466775-08:00"
 					}
 				},
 				"editEmail" : {
@@ -464,17 +766,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:34:21.879207-08:00"
+						"dateAndTimeString" : "2024-11-17T13:42:57.978453-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "gNtvsnLjDQCHUTmGAzcZ4w=="
+					"uidString" : "0WD8ZYTjDQCxk/h/AqHL6A=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "#Working with collections"
+				"string" : "Go ahead and evaluate  `self printStringHex` in this playground, which will allow us to inspect the result of this method. Which should be the hex representation of our number."
 			},
 			{
 				"__type" : "textSnippet",
@@ -490,7 +792,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:34:22.001091-08:00"
+						"dateAndTimeString" : "2024-11-17T13:44:53.813684-08:00"
 					}
 				},
 				"editEmail" : {
@@ -501,89 +803,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:34:28.549714-08:00"
+						"dateAndTimeString" : "2024-11-17T13:44:58.582823-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "JeHAsnLjDQCH8QbLAzcZ4w=="
+					"uidString" : "HweGcoTjDQCXZZZCCNt7kg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Collections have a lot of methods, but the most important ones are:"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "pharoSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-16T16:35:33.615749-08:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2024-11-16T16:40:06.631603-08:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "jp0Ft3LjDQCOlm0DAzcZ4w=="
-							},
-							"code" : "aCollection := {1. 2. 3.}.\raNewCollection := OrderedCollection new.\r\raCollection do: [:each | \r\taNewCollection add: each + 1.\r].\r\raNewCollection"
-						}
-					]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:34:31.972772-08:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:38:08.71185-08:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "PwZZs3LjDQCJQVj/AzcZ4w=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "`do:` which is similar to for each in other languages. It takes a block with a single argument, and iterates over the collection, calling the block with the current value we are iterating for."
+				"string" : "###So what just happened?"
 			},
 			{
 				"__type" : "textSnippet",
@@ -599,7 +829,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:39:17.208679-08:00"
+						"dateAndTimeString" : "2024-11-17T13:44:58.794402-08:00"
 					}
 				},
 				"editEmail" : {
@@ -610,51 +840,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:39:40.473062-08:00"
+						"dateAndTimeString" : "2024-11-17T13:46:06.096187-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "UyDCw3LjDQCq1CUFDsaoqQ=="
+					"uidString" : "cgTScoTjDQCX3JkiCNt7kg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "`collect:` which is similar to map in other languages. It works the same as `do:`, but it will return a new collection."
-			},
-			{
-				"__type" : "pharoSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:39:42.707161-08:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:40:01.978803-08:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "BHbexXLjDQCto0KFDsaoqQ=="
-				},
-				"code" : "aCollection := {1. 2. 3.}.\raCollection collect: [:each | each + 1]"
+				"string" : "We utilized the features of the smalltalk system to use discover how we can represent a number as a hexadecimal string, without opening a single line of documentation."
 			},
 			{
 				"__type" : "textSnippet",
@@ -670,7 +866,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:40:10.853018-08:00"
+						"dateAndTimeString" : "2024-11-17T13:46:08.242703-08:00"
 					}
 				},
 				"editEmail" : {
@@ -681,51 +877,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:41:02.499456-08:00"
+						"dateAndTimeString" : "2024-11-17T13:46:12.018943-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "g+2Lx3LjDQCvGtvbDsaoqQ=="
+					"uidString" : "RLX1doTjDQCu3yLLBJQPiw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "`select:` is similar to filter in other langauges. It builds a new collection, by applying a block with a single argument, and includes that value inside the new collection, if the block returns true. Otherwise it skips that item from the new collection."
-			},
-			{
-				"__type" : "pharoSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:41:04.515487-08:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:41:40.855796-08:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "W8G+ynLjDQC0oS5BDsaoqQ=="
-				},
-				"code" : "aCollection := {1. 2. 3.}.\raCollection select: [:each | each odd ]"
+				"string" : "#Knowledge Check"
 			},
 			{
 				"__type" : "textSnippet",
@@ -741,7 +903,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:52:59.721744-08:00"
+						"dateAndTimeString" : "2024-11-17T13:46:12.097471-08:00"
 					}
 				},
 				"editEmail" : {
@@ -752,17 +914,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:55:22.924912-08:00"
+						"dateAndTimeString" : "2024-11-17T13:46:25.231072-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "b/Ff9XLjDQC/1wbhAc/JNw=="
+					"uidString" : "Toswd4TjDQCvLkWZBJQPiw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "**NOTE: When sending unary messages to collections. We can use the symbol literal for the message, instead of a block. The following is the same as above**"
+				"string" : "- Smalltalk prefers a living object database to files"
 			},
 			{
 				"__type" : "textSnippet",
@@ -778,7 +940,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:54:45.661642-08:00"
+						"dateAndTimeString" : "2024-11-17T13:46:28.409622-08:00"
 					}
 				},
 				"editEmail" : {
@@ -789,51 +951,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:55:15.396224-08:00"
+						"dateAndTimeString" : "2024-11-17T13:47:02.52991-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "+XGw+3LjDQClsyRaAs+fNg=="
+					"uidString" : "wm4peITjDQCwbpntBJQPiw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "The reason this is possible, is that a symbol implements the `value:` message. Which means we can use it wherever we can use a single argument block."
-			},
-			{
-				"__type" : "pharoSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:53:26.748971-08:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:53:52.769825-08:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "S1L89nLjDQCCyCgpAc/JNw=="
-				},
-				"code" : "aCollection := {1. 2. 3.}.\raCollection select: #odd"
+				"string" : "- A living object database allows us to create queries to discover things about our system, while ignoring irrelevant parts."
 			},
 			{
 				"__type" : "textSnippet",
@@ -849,7 +977,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:41:48.913464-08:00"
+						"dateAndTimeString" : "2024-11-17T13:47:04.678384-08:00"
 					}
 				},
 				"editEmail" : {
@@ -860,51 +988,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:43:26.065506-08:00"
+						"dateAndTimeString" : "2024-11-17T13:49:23.294366-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "5zRkzXLjDQC4/vvHBR4gaQ=="
+					"uidString" : "q9lSeoTjDQCy1c/cBJQPiw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "`inject:into:` is like reduce or fold in other languages. the inject keyword is the starting value of the accumulation. And the into keyword is a block, taking in the current value for the accumulator, and the current item we are iterating over."
-			},
-			{
-				"__type" : "pharoSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:43:28.188491-08:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:43:49.549717-08:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "OAFP03LjDQC/faLnBR4gaQ=="
-				},
-				"code" : "aCollection := {1. 2. 3.}.\raCollection inject: 0 into: [:acc :each | acc + each ]"
+				"string" : "- All object inspectors have a playground on the bottom, which we can use to explore features of that object, or craft new queries to get useful information."
 			},
 			{
 				"__type" : "textSnippet",
@@ -920,7 +1014,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:55:41.737291-08:00"
+						"dateAndTimeString" : "2024-11-17T13:47:27.463406-08:00"
 					}
 				},
 				"editEmail" : {
@@ -931,128 +1025,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:55:44.874399-08:00"
+						"dateAndTimeString" : "2024-11-17T13:49:50.044444-08:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "uxcI/3LjDQC4QNECCW5s7Q=="
+					"uidString" : "CIWue4TjDQC0zsgSBJQPiw=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "#Knowledge Check:"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:55:44.968211-08:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:55:52.818709-08:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "vmc5/3LjDQC4j0DwCW5s7Q=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "- Understand how to build arrays"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:55:52.935121-08:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:56:03.661755-08:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "/fey/3LjDQC5Ocp5CW5s7Q=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "- Understand how to build collections"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:56:03.745386-08:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-11-16T16:56:10.239645-08:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "OOxXAHPjDQC6Hup+CW5s7Q=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "- Understand the common methods of using collections"
+				"string" : "- Objects can have views defined on them, which provide different windows of useful context into how an object can be interpreted."
 			}
 		]
 	},
@@ -1064,7 +1047,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-11-16T16:29:01.135785-08:00"
+			"dateAndTimeString" : "2024-11-17T12:52:30.414315-08:00"
 		}
 	},
 	"editEmail" : {
@@ -1075,15 +1058,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2024-11-16T16:29:01.135785-08:00"
+			"dateAndTimeString" : "2024-11-17T13:24:31.639526-08:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Chapter 1.7: Collections"
+		"title" : "Chapter 2.1: A bit of context"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "a5dea09f-72e3-0d00-9003-02130c114e92"
+		"uuid" : "c19029b7-83e3-0d00-ab00-0f890d966f3c"
 	}
 }
